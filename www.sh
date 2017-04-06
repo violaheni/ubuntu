@@ -1,3 +1,3 @@
 #!/bin/sh
-sudo apt-get update --yes
-sudo apt-get upgrade --yes
+sudo apt-get install apache2 --yes
+
